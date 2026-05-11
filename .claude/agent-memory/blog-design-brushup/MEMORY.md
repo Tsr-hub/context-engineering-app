@@ -1,0 +1,3 @@
+- [Design Reference Blogs](design-references.md) — 参考にしたブログURLと各デザインの特徴
+- [Applied CSS Values](applied-css-values.md) — 実際に適用してうまくいったCSS値
+- [Implementation Notes](implementation-notes.md) — ビルド・Lintで問題になったパターンと解決策
